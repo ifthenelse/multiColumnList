@@ -1,7 +1,7 @@
 MultiColumnList
 ===============
 
-MultiColumnList automatically creates multi column lists out of <ul> elements.
+MultiColumnList automatically creates multi column lists out of ul elements.
 It depends on the Mootools (1.2+ framework) but can easily be decoupled for other javascript frameworks.
 
 Usage
