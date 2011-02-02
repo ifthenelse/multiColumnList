@@ -9,13 +9,13 @@ Usage
 
 Create (or generate) a list like this:
 
-<ul class="columnList columnAmount[4]">
-	<li>content here..</li>
-	etc..
-</ul>
+	<ul class="columnList columnAmount[4]">
+		<li>content here..</li>
+		etc..
+	</ul>
 
 At the bottom of your page place:
 
-<script type="text/javascript">
-	new multiColumnList();
-</script>
+	<script type="text/javascript">
+		new multiColumnList();
+	</script>
