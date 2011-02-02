@@ -1,5 +1,7 @@
 /**
- * Create multi column list
+ * Create multi column list from ul elements
+ *
+ * @author		Jasper van der Hoeven <jasper@bugbyte.nl>
  */
 var multiColumnList = new Class(
 {
