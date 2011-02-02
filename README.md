@@ -14,6 +14,18 @@ Create (or generate) a list like this:
 		etc..
 	</ul>
 
+Set a width for the columns in CSS
+
+	/* for all instances */
+	.columnList li {
+		width: 220px;
+	}
+
+	/* for specific instances */
+	#myList li {
+		width: 350px;
+	}
+
 At the bottom of your page place:
 
 	<script type="text/javascript">
