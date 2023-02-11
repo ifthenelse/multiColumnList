@@ -1,3 +1,8 @@
+Warning
+=======
+As 2023 this repository is **deprecated** in favor of [CSS Multi-column Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Columns) now widely supported on all major browsers.
+
+
 MultiColumnList
 ===============
 
